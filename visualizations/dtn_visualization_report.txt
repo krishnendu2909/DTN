@@ -1,0 +1,47 @@
+
+DTN Network Visualization Report
+===============================
+Generated: 2025-09-01 14:18:57
+
+NETWORK OVERVIEW
+----------------
+Total Nodes: 120
+Mobile Nodes: 80
+Static Nodes: 40
+
+NODE TYPE DISTRIBUTION
+---------------------
+Emergency: 20 nodes
+Civilian: 20 nodes
+Vehicle: 20 nodes
+Drone: 20 nodes
+Tower: 10 nodes
+Gateway: 10 nodes
+Sensor: 10 nodes
+Relay: 10 nodes
+
+PERFORMANCE METRICS
+------------------
+Average Delay: 0.0 ms
+Average Throughput: 0.0 Kbps
+Total Flows: 0
+
+MESSAGE FLOW ANALYSIS
+--------------------
+Total Message Events: 2699
+CREATED: 30 events
+FORWARDED: 2669 events
+
+VISUALIZATION FILES GENERATED
+-----------------------------
+- dtn_network_topology.html (Interactive network topology)
+- dtn_performance_dashboard.html (Performance dashboard)
+- dtn_message_flow_visualization.png (Message flow diagram)
+- dtn_mobility_analysis.png (Mobility pattern analysis)
+
+RECOMMENDATIONS
+--------------
+1. Monitor high-traffic nodes for potential bottlenecks
+2. Optimize routing protocols based on node mobility patterns
+3. Consider adding more static relay nodes in low-coverage areas
+4. Implement adaptive transmission power based on node density
